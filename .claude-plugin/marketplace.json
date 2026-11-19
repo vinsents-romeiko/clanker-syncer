@@ -1,0 +1,14 @@
+{
+  "name": "clanker-syncer",
+  "owner": {
+    "name": "vinsents-romeiko"
+  },
+  "description": "claude-carry: move a Claude Code setup between devices",
+  "plugins": [
+    {
+      "name": "clanker-syncer",
+      "source": "./",
+      "description": "Move your Claude Code setup between devices over a private git repo"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "name": "clanker-syncer",
+  "version": "0.4.1",
+  "description": "Move your Claude Code setup (skills, plugins, settings, memory, MCP servers) between devices over a private git repo",
+  "author": { "name": "vinsents-romeiko" },
+  "repository": "https://github.com/vinsents-romeiko/clanker-syncer",
+  "license": "MIT"
+}
